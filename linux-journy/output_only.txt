@@ -1,0 +1,15 @@
+/home/tener:
+total 168
+-rwxr-xr-x 1 tener tener  15736 Aug 28 12:42 a.out
+drwxr-xr-x 2 tener tener   4096 Aug 29 01:15 Desktop
+drwxr-xr-x 2 tener tener   4096 Aug 29 01:15 Documents
+drwxr-xr-x 3 tener tener   4096 Sep  9 23:59 Downloads
+drwxr-xr-x 2 tener tener   4096 Aug 29 01:15 Music
+drwxr-xr-x 2 tener tener   4096 Aug 26 03:31 mydir
+drwxr-xr-x 2 tener tener   4096 Aug 26 01:24 Pictures
+drwxr-xr-x 6 tener tener   4096 Sep  6 08:55 projects
+drwxr-xr-x 2 tener tener   4096 Aug 29 01:15 Public
+-rw-r--r-- 1 tener tener 107988 Aug 18 04:06 sway.log
+drwxr-xr-x 2 tener tener   4096 Aug 29 01:15 Videos
+drwxr-xr-x 4 tener tener   4096 Aug 26 00:19 waybar
+drwxr-xr-x 5 tener tener   4096 Aug 18 06:05 yay

@@ -1,0 +1,12 @@
+ls: cannot access 'non_existent': No such file or directory
+/home/tener/projects/linux-notes/linux-journy:
+total 32
+-rw-r--r-- 1 tener tener  64 Sep 11 13:20 activity.log
+-rw-r--r-- 1 tener tener  60 Sep 11 13:35 combined.log
+-rw-r--r-- 1 tener tener 130 Sep 11 13:26 error.log
+-rw-r--r-- 1 tener tener  21 Sep 11 13:06 file_list.txt
+-rw-r--r-- 1 tener tener  64 Sep 11 13:09 greetings.txt
+-rw-r--r-- 1 tener tener  17 Sep 11 13:04 hello.txt
+-rw-r--r-- 1 tener tener 706 Sep 11 13:30 output_only.txt
+-rw-r--r-- 1 tener tener   0 Sep 11 13:24 output.txt
+-rw-r--r-- 1 tener tener  12 Sep 11 12:47 peanuts.txt

@@ -1,0 +1,2 @@
+ls: cannot access 'non_existent_file': No such file or directory
+ls: cannot access 'another_fake_file': No such file or directory
