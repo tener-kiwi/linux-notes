@@ -1,1 +1,1 @@
-print("Hellok, Git and GitHub")
+print("Hello, Git and GitHub")
