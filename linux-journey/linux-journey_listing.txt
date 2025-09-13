@@ -1,0 +1,10 @@
+activity.log
+combined.log
+combined_traditional.log
+error.log
+file_list.txt
+greetings.txt
+hello.txt
+output_only.txt
+output.txt
+peanuts.txt

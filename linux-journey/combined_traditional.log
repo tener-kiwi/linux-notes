@@ -1,8 +1,9 @@
-ls: cannot access 'non_existent': No such file or directory
-/home/tener/projects/linux-notes/linux-journy:
-total 32
+ls: cannot access 'non_existent_file': No such file or directory
+/home/tener/projects/linux-notes/linux-journey:
+total 36
 -rw-r--r-- 1 tener tener  64 Sep 11 13:20 activity.log
--rw-r--r-- 1 tener tener  60 Sep 11 13:35 combined.log
+-rw-r--r-- 1 tener tener 177 Sep 13 11:34 combined.log
+-rw-r--r-- 1 tener tener  65 Sep 13 11:41 combined_traditional.log
 -rw-r--r-- 1 tener tener 130 Sep 11 13:26 error.log
 -rw-r--r-- 1 tener tener  21 Sep 11 13:06 file_list.txt
 -rw-r--r-- 1 tener tener  64 Sep 11 13:09 greetings.txt
