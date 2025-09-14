@@ -1,6 +1,6 @@
 # Text Manipulation
 
-## stdout
+## stdin stdout stderr
 
 - `>` : 出力をファイルにリダイレクトする  
   （プログラムからではなくシェルからファイルが読み込まれるため `fd` で操作できる。  
