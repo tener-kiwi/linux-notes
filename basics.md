@@ -25,4 +25,10 @@ ls non_existent_file 2> stderr_file
 ls ~ non_existent_file &> combine_file
 ls | tee -a tee.txt
 
-    　
+ ## パイプと tee
+
+- `|` : パイプ演算子。左側コマンドの標準出力を右側コマンドの標準入力に渡すことができる。  
+  例:  
+  ```bash
+  ls -la /etc | less
+   　
