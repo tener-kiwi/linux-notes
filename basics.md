@@ -24,6 +24,8 @@ ls >> add_file
 ls non_existent_file 2> stderr_file
 ls ~ non_existent_file &> combine_file
 ls | tee -a tee.txt
+```
+
 
  ## パイプと tee
 
