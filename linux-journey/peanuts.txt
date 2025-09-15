@@ -1,1 +1,15 @@
-ls: cannot access '/fake/directory': No such file or directory
+activity.log
+banana.txt
+combined.log
+combined_traditional.log
+error.log
+file_list.txt
+greetings.txt
+hello.txt
+items.txt
+items.txt.bak
+linux-journey_listing.txt
+output_only.txt
+output.txt
+peanuts.txt
+system_log.txt
