@@ -43,4 +43,13 @@ ls | tee -a tee.txt
 - 例:  
   ```bash
   echo $HOME
-　
+
+
+## cut
+
+- `cut` : ファイルから文字やフィールドを抽出するためのコマンド。
+
+### サンプル準備
+```bash
+echo 'The quick brown; fox jumps over the lazy  dog' > sample.txt
+
