@@ -53,3 +53,52 @@ ls | tee -a tee.txt
 ```bash
 echo 'The quick brown; fox jumps over the lazy  dog' > sample.txt
 
+
+## paste
+
+- `paste` : ファイル内の行を結合するコマンド。`cat` に似ているが、行単位で横方向に連結する。  
+
+### サンプル準備
+`sample2.txt` を以下の内容で作成する。  
+
+
+## head
+
+- `head` : ファイルの先頭部分を表示するコマンド。  
+  デフォルトでは **最初の10行**を表示する。  
+
+### 使用例
+```bash
+head /var/log/syslog
+
+
+## tail
+
+- `tail` : ファイルの末尾部分を表示するコマンド。  
+  デフォルトでは **最後の10行**を表示する。  
+
+### 使用例
+```bash
+tail /var/log/syslog
+
+
+## expand と unexpand
+
+- `expand` : テキストファイル内の **TAB をスペースに変換**する。  
+- `unexpand` : **スペースを TAB に戻す**。  
+
+### TAB をスペースに変換
+```bash
+expand sample.txt
+
+
+## join と split
+
+### join
+- `join` : 共通のフィールドをキーにして、複数のファイルを結合するコマンド。  
+- デフォルトでは **最初のフィールド**をキーにして結合される。  
+- 結合するには、ファイルがあらかじめソートされている必要がある。  
+
+#### 例1: デフォルトの結合
+`file1.txt`  
+
