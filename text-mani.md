@@ -52,7 +52,7 @@ ls | tee -a tee.txt
 ### サンプル準備
 ```bash
 echo 'The quick brown; fox jumps over the lazy  dog' > sample.txt
-
+```
 
 ## paste
 
