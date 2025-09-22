@@ -70,7 +70,7 @@ echo 'The quick brown; fox jumps over the lazy  dog' > sample.txt
 ### 使用例
 ```bash
 head /var/log/syslog
-
+```
 
 ## tail
 
@@ -80,7 +80,7 @@ head /var/log/syslog
 ### 使用例
 ```bash
 tail /var/log/syslog
-
+```
 
 ## expand と unexpand
 
@@ -90,7 +90,7 @@ tail /var/log/syslog
 ### TAB をスペースに変換
 ```bash
 expand sample.txt
-
+```
 
 ## join と split
 
